@@ -1,0 +1,10 @@
+{
+  "name": "Meditator",
+  "short_name": "Meditator",
+  "theme_color": "#520162",
+  "background_color": "#520162",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "meditator",
+  "version": "1.0.0",
+  "description": "Meditation ambience PWA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "watch": "tsc -w"
+  },
+  "author": "njmcode",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.3.3"
+  }
+}
